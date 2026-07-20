@@ -10,6 +10,4 @@ can't — including the bugs I didn't know to look for.
 
 Most of my work is private client systems, so the public shelf here is just getting started.
 
-📍 Pacific Northwest · [LinkedIn](https://www.linkedin.com/in/craigstoller)
-
 *"A butterfly dreaming it's human." — after Zhuangzi*
